@@ -1,0 +1,6 @@
+{
+  "name": "Bem ou Mal - Estúdio de Cenas & Personagem para YouTube",
+  "description": "Estúdio de produção visual para o canal Bem ou Mal: gere e componha cenários cinematográficos 16:9 sobre videogames com o seu personagem, comparador de lados e exportação para YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
